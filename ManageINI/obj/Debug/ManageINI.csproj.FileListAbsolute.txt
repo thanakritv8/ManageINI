@@ -1,0 +1,10 @@
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\bin\Debug\ManageINI.exe.config
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\bin\Debug\ManageINI.exe
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\bin\Debug\ManageINI.pdb
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\obj\Debug\ManageINI.csprojAssemblyReference.cache
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\obj\Debug\ManageINI.Form1.resources
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\obj\Debug\ManageINI.Properties.Resources.resources
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\obj\Debug\ManageINI.csproj.GenerateResource.cache
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\obj\Debug\ManageINI.csproj.CoreCompileInputs.cache
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\obj\Debug\ManageINI.exe
+C:\Users\thanakrit.j\source\repos\ManageINI\ManageINI\obj\Debug\ManageINI.pdb
